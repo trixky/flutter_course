@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978149242158",
+    "project_id": "udemy-course-chat-app-33529",
+    "storage_bucket": "udemy-course-chat-app-33529.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978149242158:android:464cb6e7d388fb088a36bf",
+        "android_client_info": {
+          "package_name": "com.example.app_7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtgJmn98jO4DLqzawkdgQfhsQuWf3EXGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
